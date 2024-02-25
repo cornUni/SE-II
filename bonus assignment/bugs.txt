@@ -1,0 +1,5 @@
+- not showing proper error message on invalid user
+- not showing proper error message on wrong password
+- not showing proper error message on empty cart, confirmation
+- having to add the image again to the form while updating a food info
+- having fixed value for the price input, unabling us to enter higher values
